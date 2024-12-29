@@ -1,3 +1,4 @@
+print('Update 29/12/2024: I\'m proud of read this today because my level on python programing is quite intermediate now')
 print('Hello, I am Cynthia and I am learnig Python programming language')
 print('Today, I have learned how to write in the window command prompt (DOS) and make some calculations')
 
